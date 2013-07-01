@@ -4,4 +4,16 @@
   <artifactId>de.rolandkluge.wga.christmastree</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <description>Nice little project which draws Christmas trees on the command line</description>
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.10</version>
+    </dependency>
+    <dependency>
+      <groupId>commons-lang</groupId>
+      <artifactId>commons-lang</artifactId>
+      <version>2.6</version>
+    </dependency>
+  </dependencies>
 </project>
