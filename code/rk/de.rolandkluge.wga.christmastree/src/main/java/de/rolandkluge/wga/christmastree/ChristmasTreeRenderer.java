@@ -17,7 +17,7 @@ import org.apache.commons.lang.StringUtils;
  * A tree T of height n is build from a tree S of height n-1 as follows: We add three more lines to
  * the bottom of S. The topmost line of T is two units smaller than the bottom line of S. The
  * intermediate line is just as broad an the new bottom line is two units wider than the bottom line
- * of S. For instance, a tree of height 1 looks like this:
+ * of S. For instance, a tree of height 2 looks like this:
  *
  * <pre>
  *    #   \n
